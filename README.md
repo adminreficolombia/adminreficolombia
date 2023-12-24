@@ -1,6 +1,6 @@
 <!---
 adminreficolombia/adminreficolombia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. :)
+You can click the Preview link to take a look at your changes. :) :)
 --->
 
 - 👋 Hi, ReFiColombia is a vibrant community that unites all ReFi nodes in the country, including Medellin, Bogota, Saravena, and the future one in Cartagena. Our main objective is to promote the growth and development of Regenerative Finance (ReFi) technology in Colombia, as well as to foster collaboration and knowledge sharing among local nodes. In this proposal, we present a plan to strengthen and expand ReFiColombia, providing comprehensive support to existing nodes and promoting the creation of new nodes throughout the country.
